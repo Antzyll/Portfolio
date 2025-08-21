@@ -15,9 +15,10 @@
 
 ## 📂 Projects
 
-### 🗣️ [Chatlingo](./Chatlingo/README.md)
-A full mobile app for real-time language translation, travel companion and social feed. 
+### 🗣️ [Chatlingo](./Chatlingo/README.md)  
+A mobile app for real-time language translation, travel companion and social feed.  
 Built with **React Native + Firebase**, featuring authentication, live translation, profiles, and settings.  
+
 <p align="center">
   <img src="Chatlingo/screenshots/login.png" height="200"/>
   <img src="Chatlingo/screenshots/home.png" height="200"/>
@@ -27,12 +28,18 @@ Built with **React Native + Firebase**, featuring authentication, live translati
 
 ### 🌌 [Lucidrift](./Lucidrift/README.md)  
 A dream journaling app with **AI-assisted visualisation**.  
-Responsive **PWA built with Next.js + Tailwind + Firebase**, featuring dream journaling, immersive UI design, and pipelines for generating comics, reels, and (soon) small dream movies.   
+Responsive **PWA built with Next.js + Tailwind + Firebase**, featuring dream journaling, immersive UI design, and pipelines for generating comics, reels, and (soon) small dream movies.
+
+<p align="center">
+  <img src="Lucidrift/screenshots/homepage1.png" height="200"/>
+  <img src="Lucidrift/screenshots/comicgrid1.png" height="200"/>
+</p>
 
 ---
 
 ### 🌐 Websites  
 Custom **WordPress** and **front-end builds** for clients, with capability to extend into full-stack (e.g. SQL-backed dashboards, API integrations).  
+Designs typically involve theme customization, client branding, and dynamic features powered by plugins, APIs, or custom PHP logic.
 
 ---
 
