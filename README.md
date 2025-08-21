@@ -25,9 +25,9 @@ Built with **React Native + Firebase**, featuring authentication, live translati
 
 ---
 
-### 🌌 Lucidrift *(coming soon)*  
-A dream journaling app + AI-assisted visualisation.  
-Mobile-first PWA built with **Next.js + Tailwind + Firebase**, with AI pipelines for generating dream comics and reels.  
+### 🌌 [Lucidrift](./Lucidrift/README.md)  
+A dream journaling app with **AI-assisted visualisation**.  
+Responsive **PWA built with Next.js + Tailwind + Firebase**, featuring dream journaling, immersive UI design, and pipelines for generating comics, reels, and (soon) small dream movies.   
 
 ---
 
