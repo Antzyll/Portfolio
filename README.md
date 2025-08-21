@@ -1,6 +1,6 @@
 <h1 align="center">💼 Portfolio</h1>
 <p align="center">
-  <b>Showcasing full-stack & front-end projects</b><br/>
+  <b>Front-end focused, full-stack capable</b><br/>
   <i>React • React Native • Node.js • Firebase • SQL • WordPress</i>
 </p>
 
@@ -31,16 +31,8 @@ Mobile-first PWA built with **Next.js + Tailwind + Firebase**, with AI pipelines
 
 ---
 
-### 🌐 Freelance Websites  
-Custom **WordPress** and **full-stack builds** delivered for clients, including:  
-- Business landing pages  
-- E-commerce sites with custom themes/plugins  
-- SQL-backed dashboards  
-
----
-
-## 🚀 About Me
-I’m a versatile developer with a background in IT support, cloud, and automation — now focused on building clean, user-friendly web and mobile apps.  
+### 🌐 Websites  
+Custom **WordPress** and **front-end builds** for clients, with capability to extend into full-stack (e.g. SQL-backed dashboards, API integrations).  
 
 ---
 
