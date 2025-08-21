@@ -31,9 +31,11 @@ I focused heavily on the **front-end design and user experience**: glass-card la
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/homepage.png" width="200"/>
-  <img src="screenshots/ai-sample.png" width="200"/>
-  <img src="screenshots/background.png" width="200"/>
+  <img src="screenshots/homepage1.png" width="220"/>
+  <img src="screenshots/dreamsubmission1.png" width="220"/>
+  <img src="screenshots/dream1.png" width="220"/>
+  <img src="screenshots/dream2.png" width="220"/>
+  <img src="screenshots/comicgrid1.png" width="220"/>
 </p>
 
 ---
