@@ -20,12 +20,12 @@ I focused heavily on the **front-end design and user experience**: glass-card la
 ---
 
 ## Features
-- 🖌️ **Custom UI/UX design** — homepage, backgrounds, journaling interface designed by me  
-- 💻 **Progressive Web App (PWA)** — responsive across desktop, tablet, and mobile, installable like an app  
-- 🔐 **Firebase integration** — lightweight authentication & cloud storage  
-- 🌙 **Dream journaling system** — log and revisit dreams through an elegant interface  
-- 🎨 **AI-enhanced visuals** — users’ dreams generate images and comics via ComfyUI + Brainstorm AI *(requires online access)*  
-- 🎞️ **Dream reels** — entries can be compiled into short “weekly dream movies” *(upcoming feature)*  
+- 🖌️ **Custom UI/UX design** | homepage, backgrounds, journaling interface designed by me  
+- 💻 **Progressive Web App (PWA)** | responsive across desktop, tablet, and mobile, installable like an app  
+- 🔐 **Firebase integration** | lightweight authentication & cloud storage  
+- 🌙 **Dream journaling system** | log and revisit dreams through an elegant interface  
+- 🎨 **AI-enhanced visuals** | users’ dreams generate images and comics via ComfyUI + Brainstorm AI *(requires online access)*  
+- 🎞️ **Dream reels** | entries can be compiled into short “weekly dream movies” *(upcoming feature)*  
 
 ---
 
