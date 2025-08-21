@@ -15,8 +15,8 @@
 
 ## 📂 Projects
 
-### 🗣️ [Chatlingo](./Chatlingo/README.md)
-A full mobile app for real-time language translation and practice.  
+### 🗣️ [ChatLingo](./ChatLingo/README.md)
+A full mobile app for real-time language translation, travel companion and social feed. 
 Built with **React Native + Firebase**, featuring authentication, live translation, profiles, and settings.  
 <p align="center">
   <img src="Chatlingo/screenshots/login.png" height="200"/>
