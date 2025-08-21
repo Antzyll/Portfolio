@@ -1,6 +1,6 @@
-<h1 align="center">🗣️ Chatlingo</h1>
+<h1 align="center">🗣️ ChatLingo</h1>
 <p align="center">
-  <b>Full mobile translation & language practice app</b><br/>
+  <b>Full mobile translation & travel companion app</b><br/>
   <i>Designed & developed end-to-end</i>
 </p>
 
@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-**Chatlingo** is a cross-platform mobile app built to help users communicate across languages in real time.  
+**ChatLingo** is a cross-platform mobile app built to help users communicate across languages in real time and travel together with an integrated social platform.  
 I created the app from the ground up — from design and UI/UX to full implementation, authentication, database integration, and deployment.
 
 ## Features
@@ -25,9 +25,7 @@ I created the app from the ground up — from design and UI/UX to full implement
 
 ---
 
-## Screenshots
-
-### 🔑 Login & Auth
+<h2 align="center">🔑 Login & Auth</h2>
 <p align="center">
   <img src="screenshots/login.png" width="250"/>
   <img src="screenshots/login2.png" width="250"/>
@@ -40,7 +38,7 @@ I created the app from the ground up — from design and UI/UX to full implement
   <img src="screenshots/profile.png" width="250"/>
 </p>
 
-### 🏠 Home & Feed
+<h2 align="center">🏠 Home & Feed</h2>
 <p align="center">
   <img src="screenshots/home.png" width="250"/>
   <img src="screenshots/home2.png" width="250"/>
@@ -51,12 +49,12 @@ I created the app from the ground up — from design and UI/UX to full implement
   <img src="screenshots/home4.png" width="250"/>
 </p>
 
-### 🌍 Translation
+<h2 align="center">🌍 Translation</h2>
 <p align="center">
   <img src="screenshots/translation1.png" width="250"/>
 </p>
 
-### ⚙️ Settings
+<h2 align="center">⚙️ Settings</h2>
 <p align="center">
   <img src="screenshots/settings1.png" width="250"/>
   <img src="screenshots/settings2.png" width="250"/>
