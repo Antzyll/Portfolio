@@ -1,33 +1,47 @@
-<h1 align="center">🌐 Tony’s Front-End Development Portfolio</h1>
-
+<h1 align="center">💼 Portfolio</h1>
 <p align="center">
-  <b>React • Next.js • React Native • JavaScript • Python • SQL • WordPress</b><br/>
-  <i>Personal builds & client projects — code kept private, screenshots and case studies provided.</i>
+  <b>Showcasing full-stack & front-end projects</b><br/>
+  <i>React • React Native • Node.js • Firebase • SQL • WordPress</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-teal?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-SQL-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CMS-WordPress-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Expo-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Firebase-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CMS-WordPress%20%7C%20Custom%20Themes-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
 
-## About
-This repository highlights a mix of **personal builds** and **client projects** I’ve contributed to as a front-end developer.  
-The full source code is kept private to protect intellectual property, but each project includes screenshots and a short case study.
+## 📂 Projects
 
-## Skills & Focus
-- Develop responsive websites and apps with **React, Next.js, and React Native**  
-- Build and maintain **WordPress websites** (PHP, plugins, themes)  
-- Use **SQL** and database integration for dynamic websites  
-- Integrate APIs (**Firebase, REST, GraphQL**)  
-- Deliver clean, accessible, and user-friendly UI/UX  
+### 🗣️ [Chatlingo](./Chatlingo/README.md)
+A full mobile app for real-time language translation and practice.  
+Built with **React Native + Firebase**, featuring authentication, live translation, profiles, and settings.  
+<p align="center">
+  <img src="Chatlingo/screenshots/home.png" width="200"/>
+  <img src="Chatlingo/screenshots/translation1.png" width="200"/>
+</p>
 
-## Projects
-- [Chatlingo](./Chatlingo/README.md) — Mobile translation app (React Native + Firebase)  
-- [Lucidrift](./Lucidrift/README.md) — Dream journaling PWA (Next.js + Firebase)  
-- (More client websites and projects coming soon)
+---
+
+### 🌌 Lucidrift *(coming soon)*  
+A dream journaling app + AI-assisted visualisation.  
+Mobile-first PWA built with **Next.js + Tailwind + Firebase**, with AI pipelines for generating dream comics and reels.  
+
+---
+
+### 🌐 Freelance Websites  
+Custom **WordPress** and **full-stack builds** delivered for clients, including:  
+- Business landing pages  
+- E-commerce sites with custom themes/plugins  
+- SQL-backed dashboards  
+
+---
+
+## 🚀 About Me
+I’m a versatile developer with a background in IT support, cloud, and automation — now focused on building clean, user-friendly web and mobile apps.  
+
+---
+
+<p align="center"><i>More projects being added soon...</i></p>
