@@ -23,37 +23,41 @@ I created the app from the ground up — from design and UI/UX to full implement
 - 👤 **Profiles & settings** — account management, dark mode, notifications  
 - ☁️ **Firebase backend** — authentication, Firestore database, storage  
 
-## Tech Stack
-- **React Native / Expo** — cross-platform development  
-- **Firebase** — authentication, Firestore DB, storage  
-- **JavaScript / TypeScript** — application logic  
-- **Figma** — design prototyping (optional mention if you did)  
-
 ---
 
 ## Screenshots
 
-**Logo & Welcome**
-![Logo](screenshots/mobile%20app%20logo.png)  
-![Welcome](screenshots/login.png)
+### 🔑 Login & Auth
+<p align="center">
+  <img src="screenshots/login.png" width="250"/>
+  <img src="screenshots/login2.png" width="250"/>
+  <img src="screenshots/login3.png" width="250"/>
+</p>
 
-**Login / Sign-up / Reset**
-![Login 2](screenshots/login2.png)  
-![Login 3](screenshots/login3.png)  
-![Password Reset](screenshots/reset.png)  
-![Sign-up](screenshots/home4.png) <!-- replace with actual signup shot if you have -->
+<p align="center">
+  <img src="screenshots/reset.png" width="250"/>
+  <img src="screenshots/mobile%20app%20logo.png" width="250"/>
+  <img src="screenshots/profile.png" width="250"/>
+</p>
 
-**Home / Feed**
-![Home](screenshots/home.png)  
-![Home 2](screenshots/home2.png)  
-![Home 3](screenshots/home3.png)
+### 🏠 Home & Feed
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/home2.png" width="250"/>
+  <img src="screenshots/home3.png" width="250"/>
+</p>
 
-**Translation**
-![Translation](screenshots/translation1.png)
+<p align="center">
+  <img src="screenshots/home4.png" width="250"/>
+</p>
 
-**Profile**
-![Profile](screenshots/profile.png)
+### 🌍 Translation
+<p align="center">
+  <img src="screenshots/translation1.png" width="250"/>
+</p>
 
-**Settings**
-![Settings 1](screenshots/settings1.png)  
-![Settings 2](screenshots/settings2.png)
+### ⚙️ Settings
+<p align="center">
+  <img src="screenshots/settings1.png" width="250"/>
+  <img src="screenshots/settings2.png" width="250"/>
+</p>
