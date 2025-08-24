@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  @keyframes fade-in-up {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .animate-fade-in-up { animation: fade-in-up .6s ease-out both; }
+  .anim-delay-150 { animation-delay: .15s; }
+  .anim-delay-300 { animation-delay: .3s; }
+}
+
+@layer utilities {
+  /* Scroll reveal: start hidden, slide up when visible */
+  .reveal {
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity .6s ease, transform .6s ease;
+    will-change: opacity, transform;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Optional delays */
+  .reveal-delay-150 { transition-delay: .15s; }
+  .reveal-delay-300 { transition-delay: .3s; }
+}
+
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+.btn-gold,
+.btn-orange {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-gold::after,
+.btn-orange::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -75%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    rgba(255, 255, 255, 0.4) 0%,
+    rgba(255, 255, 255, 0) 80%
+  );
+  transform: skewX(-20deg);
+}
+
+.btn-gold:hover::after,
+.btn-orange:hover::after {
+  left: 125%;
+  transition: left 0.6s ease;
+}
+
+@keyframes float-down {
+  0%   { transform: translateY(-10%); opacity: 0; }
+  10%  { opacity: 0.8; }
+  90%  { opacity: 0.8; }
+  100% { transform: translateY(110vh); opacity: 0; }
+}
+
+@keyframes sway {
+  0%   { transform: translateX(0) rotate(-2deg); }
+  50%  { transform: translateX(12px) rotate(2deg); }
+  100% { transform: translateX(0) rotate(-2deg); }
+}
+
+/* Outer wrapper = vertical drift */
+.lantern-vert {
+  position: fixed;
+  top: -10%;
+  pointer-events: none;
+  z-index: 0;               /* behind content */
+  animation-name: float-down;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+/* Inner img = sway + glow + size */
+.lantern-sway {
+  width: 56px;              /* tweak size */
+  height: auto;
+  animation: sway 6s ease-in-out infinite;
+  filter: drop-shadow(0 0 6px rgba(230,182,84,.8))
+          drop-shadow(0 0 12px rgba(230,182,84,.6));
+  opacity: .9;
+}
+
+
+
+

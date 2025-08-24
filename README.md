@@ -15,24 +15,24 @@
 
 ## 📂 Projects
 
-### 🗣️ [Chatlingo](./Chatlingo/README.md)  
-A mobile app for real-time language translation, travel companion and social feed.  
+### 🗣️ [Chatlingo](./Projects/Chatlingo/README.md)  
+A full mobile app for real-time language translation, travel companion and social feed.  
 Built with **React Native + Firebase**, featuring authentication, live translation, profiles, and settings.  
 
 <p align="center">
-  <img src="Chatlingo/screenshots/login.png" height="200"/>
-  <img src="Chatlingo/screenshots/home.png" height="200"/>
+  <img src="Projects/Chatlingo/screenshots/login.png" height="200"/>
+  <img src="Projects/Chatlingo/screenshots/home.png" height="200"/>
 </p>
 
 ---
 
-### 🌌 [Lucidrift](./Lucidrift/README.md)  
+### 🌌 [Lucidrift](./Projects/Lucidrift/README.md)  
 A dream journaling app with **AI-assisted visualisation**.  
-Responsive **PWA built with Next.js + Tailwind + Firebase**, featuring dream journaling, immersive UI design, and pipelines for generating comics, reels, and (soon) small dream movies.
+Responsive **PWA built with Next.js + Tailwind + Firebase**, featuring dream journaling, immersive UI design, and pipelines for generating comics, reels, and (soon) small dream movies.  
 
 <p align="center">
-  <img src="Lucidrift/screenshots/homepage1.png" height="200"/>
-  <img src="Lucidrift/screenshots/comicgrid1.png" height="200"/>
+  <img src="Projects/Lucidrift/screenshots/homepage1.png" height="200"/>
+  <img src="Projects/Lucidrift/screenshots/comicgrid1.png" height="200"/>
 </p>
 
 ---
