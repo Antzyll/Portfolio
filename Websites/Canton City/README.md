@@ -18,11 +18,11 @@ It highlights their story, popular dishes, and integrates with **Just Eat** for 
 ## 🖼️ Screenshots  
 
 <p align="center">
-  <img src="./images/homepage1.webp" height="300"/>
+  <img src="./images/homepage1.webp" width="800"/>
 </p>  
 
 <p align="center">
-  <img src="./images/homepage2.webp" height="300"/>
+  <img src="./images/homepage2.webp" width="800"/>
 </p>  
 
 ---
