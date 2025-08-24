@@ -24,4 +24,4 @@ Custom **WordPress** and **front-end builds** for clients, with capability to ex
 
 ---
 
-<p align="center"><i>More projects being added soon.</i></p>
+More coming soon!
