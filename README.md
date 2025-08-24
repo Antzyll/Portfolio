@@ -37,21 +37,8 @@ Responsive **PWA built with Next.js + Tailwind + Firebase**, featuring dream jou
 
 ---
 
-### 🌐 Websites  
+### 🌐 [Websites](./Websites/README.md)  
 Custom **WordPress** and **front-end builds** for clients, with capability to extend into full-stack (e.g. SQL-backed dashboards, API integrations).  
-Designs typically involve theme customization, client branding, and dynamic features powered by plugins, APIs, or custom PHP logic.
-
-#### 🥡 [Canton City – Live Demo](https://canton-city-demo.vercel.app)  
-A modern, responsive website demo for a local Chinese takeaway.  
-Built with **Next.js + Tailwind**, featuring:  
-- Floating lantern animations for unique branding ✨  
-- Sticky mobile “Call / Order” bar for frictionless UX 📱  
-- Menu highlights, meal deals, allergen info & Just Eat integration 🍜  
-
-<p align="center">
-  <img src="CantonCity/screenshots/home.png" height="200"/>
-  <img src="CantonCity/screenshots/menu.png" height="200"/>
-</p>
 
 ---
 
