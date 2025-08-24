@@ -14,6 +14,8 @@
 ---
 
 ## 📂 [Projects](./Projects/README.md)
+App builds included in my portfolio.  
+Includes **mobile apps, PWAs, and experiments** showing full-stack capability.  
 
 ---
 
