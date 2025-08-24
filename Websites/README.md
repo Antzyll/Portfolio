@@ -1,6 +1,6 @@
 # 🌐 Websites  
 
-This folder contains my website builds — client demos and portfolio showcases.  
+This folder contains my website builds - client demos and portfolio showcases.  
 
 ---
 
