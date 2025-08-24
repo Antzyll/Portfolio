@@ -13,7 +13,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 [Projects](./Projects/README.md)
 
 ### 🗣️ [Chatlingo](./Projects/Chatlingo/README.md)  
 A full mobile app for real-time language translation, travel companion and social feed.  
