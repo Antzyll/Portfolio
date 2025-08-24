@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/CMS-WordPress%20%7C%20Custom%20Themes-lightgrey?style=for-the-badge"/>
 </p>
 
----
 
 ## 📂 [Projects](./Projects/README.md)
 App builds included in my portfolio.  
@@ -24,4 +23,4 @@ Custom **WordPress** and **front-end builds** for clients, with capability to ex
 
 ---
 
-More coming soon!
+Check Projects & Websites for regular updates!
