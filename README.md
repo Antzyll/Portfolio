@@ -43,4 +43,15 @@ Designs typically involve theme customization, client branding, and dynamic feat
 
 ---
 
-<p align="center"><i>More projects being added soon...</i></p>
+### 🥡 [Canton City](./CantonCity/README.md)  
+A modern, responsive website demo for a local Chinese takeaway.  
+Built with **Next.js + Tailwind**, featuring floating lantern animations, a sticky mobile call/order bar, and integrated Just Eat ordering.
+
+<p align="center">
+  <img src="CantonCity/screenshots/home.png" height="200"/>
+  <img src="CantonCity/screenshots/menu.png" height="200"/>
+</p>
+
+---
+
+<p align="center"><i>More projects being added soon.</i></p>
