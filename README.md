@@ -16,7 +16,6 @@
 App builds included in my portfolio.  
 Includes **mobile apps, PWAs, and experiments** showing full-stack capability.  
 
----
 
 ### 🌐 [Websites](./Websites/README.md)  
 Custom **WordPress** and **front-end builds** for clients, with capability to extend into full-stack (e.g. SQL-backed dashboards, API integrations).  
