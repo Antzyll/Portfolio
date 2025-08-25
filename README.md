@@ -1,25 +1,37 @@
-<h1 align="center">💼 Portfolio</h1>
-<p align="center">
-  <b>Front-end focused, full-stack capable</b><br/>
-  <i>React • React Native • Node.js • Firebase • SQL • WordPress</i>
-</p>
+# 💼 Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Expo-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Firebase-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CMS-WordPress%20%7C%20Custom%20Themes-lightgrey?style=for-the-badge"/>
-</p>
+Front-end focused, full-stack capable.  
+Tech stack includes **React, Next.js, React Native, Node.js, Firebase, SQL, WordPress**.  
 
-
-### 📂 [Projects](./Projects/README.md)
-App builds included in my portfolio.  
-Includes **mobile apps, PWAs, and experiments** showing full-stack capability.  
-
-
-### 🌐 [Websites](./Websites/README.md)  
-Custom **WordPress** and **front-end builds** for clients, with capability to extend into full-stack (e.g. SQL-backed dashboards, API integrations).  
+This portfolio showcases selected projects I’ve designed and built — from client websites to experimental apps.  
+Each one is focused on responsive design, performance, and clean UI/UX.
 
 ---
 
-Check Projects & Websites for regular updates!
+## 🌟 Featured Projects
+
+### 🏮 [Canton City — Takeaway Website](Websites/CantonCity.md)  
+A modern, responsive site for a family-run Chinese takeaway.  
+Highlights customer favourites and integrates with **Just Eat** for seamless ordering.  
+ [Live Demo inside]
+
+---
+
+### 🌌 [Lucidrift — Dream Journal PWA](Projects/Lucidrift.md)  
+Progressive Web App for dream logging, Firebase-backed authentication, with AI-powered features.  
+
+---
+
+## 🔧 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+📂 Explore the [Projects](Projects) and [Websites](Websites) folders for full case studies and details.
