@@ -1,28 +1,30 @@
-# 🏮 Canton City — Chinese Takeaway Website  
+# 🏮 Canton City — Chinese Takeaway Website
 
-A **modern, responsive website** built for **Canton City**, a family-run Chinese takeaway.  
-It highlights their story, popular dishes, and integrates with **Just Eat** for seamless online ordering.  
+A modern, responsive website built for **Canton City**, a family-run Chinese takeaway.  
+The site blends a welcoming design with subtle cultural touches, highlights their most popular dishes, and integrates directly with Just Eat for seamless online ordering.
 
 ---
 
-## ✨ Features  
-- 📱 **Responsive design** — works beautifully on desktop & mobile.  
-- 🏮 **Floating lantern animations** — subtle, branded decorative effect.  
-- 📖 **About Us section** — family-run, serving the community for 10+ years.  
-- 🥡 **Customer Favourites & Meal Deals** — featured dishes with prices.  
-- 🚗 **Just Eat integration** — one-click ordering link.  
-- ⚠️ **Allergen & vegan notices** — clear info for customer safety.  
+## ✨ Key Features
 
+- 📱 **Responsive design** : optimised for both desktop & mobile customers.  
+- 🏮 **Floating lantern animations** : subtle branded decoration that adds character without distraction.  
+- 📖 **About Us section** : tells the story of a family serving the local community for over 10 years.  
+- 🥡 **Customer Favourites & Meal Deals** : featured dishes with prices to encourage quick decisions.  
+- 🚗 **Just Eat integration** : one-click ordering with the full menu handled externally.  
+- ⚠️ **Allergen & vegan notices** : clear guidance for customer safety and dietary needs.  
+
+---
 ---
 
 ## 🖼️ Screenshots  
 
 <p align="center">
-  <img src="./images/homepage1.webp" width="800"/>
+  <img src="./images/homepage1.webp" width="600"/>
 </p>  
 
 <p align="center">
-  <img src="./images/homepage2.webp" width="800"/>
+  <img src="./images/homepage2.webp" width="600"/>
 </p>  
 
 ---
