@@ -1,6 +1,9 @@
-# 🌐 Websites  
+# 🌐 Websites
 
-This folder contains my website builds and client demos.  
+**This is where my full site builds live! From client projects to personal experiments that bring ideas online.  
+I enjoy shaping clean, responsive designs and turning them into fully functional websites.  
+Each build is crafted with performance, accessibility, and usability in mind, while still leaving room for a little creativity.**  
+
 
 ---
 
