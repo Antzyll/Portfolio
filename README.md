@@ -3,22 +3,27 @@
 Front-end focused, full-stack capable.  
 Tech stack includes **React, Next.js, React Native, Node.js, Firebase, SQL, WordPress**.  
 
-This portfolio showcases selected projects I’ve designed and built — from client websites to experimental apps.  
-Each one is focused on responsive design, performance, and clean UI/UX.
+---
+
+## 📂 Explore
+
+- 📱 [**Projects**](Projects) — mobile apps, PWAs, and experiments showing full-stack capability.  
+- 🌐 [**Websites**](Websites) — custom WordPress and front-end builds for clients, with integrations (e.g., Just Eat, API dashboards).  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Work
 
 ### 🏮 [Canton City — Takeaway Website](Websites/CantonCity.md)  
 A modern, responsive site for a family-run Chinese takeaway.  
 Highlights customer favourites and integrates with **Just Eat** for seamless ordering.  
- [Live Demo inside]
+👉 [Live Demo inside]
 
 ---
 
 ### 🌌 [Lucidrift — Dream Journal PWA](Projects/Lucidrift.md)  
 Progressive Web App for dream logging, Firebase-backed authentication, with AI-powered features.  
+👉 Live Demo coming soon
 
 ---
 
@@ -34,4 +39,4 @@ Progressive Web App for dream logging, Firebase-backed authentication, with AI-p
 
 ---
 
-📂 Explore the [Projects](Projects) and [Websites](Websites) folders for full case studies and details.
+✨ Check the folders above for full case studies, screenshots, and details.
