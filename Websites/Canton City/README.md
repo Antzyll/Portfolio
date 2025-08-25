@@ -17,7 +17,7 @@ The site blends a welcoming design with subtle cultural touches, highlights thei
 ---
 ---
 
-## 🖼️ Screenshots  
+## 🖼️ Screenshot  
 
 <p align="center">
   <img src="./images/homepage1.webp" width="600"/>
