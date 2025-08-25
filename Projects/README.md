@@ -1,6 +1,9 @@
 # 📂 Projects
 
-This folder showcases my larger app builds — full-scale projects that go beyond small demos.  
+This is where ideas turn into apps and PWAs! Anything from small sparks to bigger builds that actually feel alive.  
+I love experimenting with frameworks, testing new approaches, and seeing how far I can push a concept.  
+Some projects are practical, some are just for fun, but all of them carry my focus on clean design and smooth user experiences.  
+
 
 ---
 
