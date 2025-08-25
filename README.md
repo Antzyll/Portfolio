@@ -7,8 +7,8 @@ Tech stack includes **React, Next.js, React Native, Node.js, Firebase, SQL, Word
 
 ## 📂 Explore
 
-- 📱 [**Projects**](Projects) — mobile apps, PWAs, and experiments showing full-stack capability.  
-- 🌐 [**Websites**](Websites) — custom WordPress and front-end builds for clients, with integrations (e.g., Just Eat, API dashboards).  
+- 📱 **Projects** — mobile apps, PWAs, and experiments where I explore new tools, frameworks, and integrations.  
+- 🌐 **Websites** — developed sites built with modern frameworks, focused on responsive design, performance, and smooth user experiences.
 
 ---
 
