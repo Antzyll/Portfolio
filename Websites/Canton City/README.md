@@ -23,10 +23,6 @@ The site blends a welcoming design with subtle cultural touches, highlights thei
   <img src="./images/homepage1.webp" width="600"/>
 </p>  
 
-<p align="center">
-  <img src="./images/homepage2.webp" width="600"/>
-</p>  
-
 ---
 
 ## 🔗 Live Demo  
