@@ -12,18 +12,14 @@ Tech stack includes **React, Next.js, React Native, Node.js, Firebase, SQL, Word
 
 ---
 
-## 🌟 Featured Work
+I enjoy building **projects** and **websites** that solve real problems while exploring new technologies along the way.  
+For me, development isn’t just about code - it’s about creating clean, responsive designs, integrating systems that make life easier, and experimenting for the fun of it!  
 
-### 🏮 [Canton City — Takeaway Website](Websites/CantonCity.md)  
-A modern, responsive site for a family-run Chinese takeaway.  
-Highlights customer favourites and integrates with **Just Eat** for seamless ordering.  
-👉 [Live Demo inside]
+This portfolio is a collection of my work:  
+- 🛠 Personal projects where I test ideas and new tools  
+- 🌐 Client websites built with a focus on design + usability  
+- 🚀 Explorations into APIs, integrations, and the occasional full-stack experiment for fun and to make my front-end builds more dynamic!
 
----
-
-### 🌌 [Lucidrift — Dream Journal PWA](Projects/Lucidrift.md)  
-Progressive Web App for dream logging, Firebase-backed authentication, with AI-powered features.  
-👉 Live Demo coming soon
 
 ---
 
@@ -39,4 +35,4 @@ Progressive Web App for dream logging, Firebase-backed authentication, with AI-p
 
 ---
 
-✨ Check the folders above for full case studies, screenshots, and details.
+✨ Dive into the folders above to see full case studies, screenshots, and live demos.
