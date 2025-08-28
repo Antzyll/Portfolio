@@ -7,9 +7,10 @@ Each build is crafted with performance, accessibility, and usability in mind, wh
 ---
 
 ### 📱 [ConnecQR](./ConnecQR/README.md)  
-A modern web app for building and sharing digital cards with smart QR codes.  
-Featuring draggable/resizable customisation, feature rich, endless QR types (more to come) and a live website.
+A full-featured platform for creating and sharing digital cards powered by smart QR codes.  
+it lets users fully customise cards with draggable/resizable elements, unique designs, and multiple QR types all for free.  
 👉 [Visit site](https://connecqr.com)  
+
 ---
 
 ### 🏮 [Canton City](./Canton%20City/README.md)  
