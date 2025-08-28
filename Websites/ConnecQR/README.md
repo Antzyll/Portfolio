@@ -20,6 +20,16 @@ This isn’t just a demo - it’s a **real, live website** crafted to feel sleek
 
 ---
 
+### 📸 Screenshots
+
+**Design your card**  
+<img src="./screenshots/design.png" width="600" alt="ConnecQR card design screen" />
+
+**Fonts & Info**  
+<img src="./screenshots/font.png" width="600" alt="ConnecQR fonts and info step" />
+
+**QR Types**  
+<img src="./screenshots/qrtypes.png" width="600" alt="ConnecQR QR types selection" />
 
 ---
 
